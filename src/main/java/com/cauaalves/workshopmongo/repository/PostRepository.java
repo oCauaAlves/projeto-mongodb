@@ -1,4 +1,3 @@
-
 package com.cauaalves.workshopmongo.repository;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
