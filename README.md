@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Java-17+-blue" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3-green" />
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-brightgreen" />
-  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-yellow" />
+  <img src="https://img.shields.io/badge/Status-Concluído-success" />
 </p>
 
 ---
