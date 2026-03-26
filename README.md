@@ -83,7 +83,7 @@ cd projeto-mongodb
 Certifique-se de configurar a conexão com o MongoDB no arquivo:
 
 ```properties
-spring.data.mongodb.uri=mongodb://localhost:27017/seu_banco
+spring.data.mongodb.uri=mongodb://localhost:27017/workshop_mongo
 ```
 
 Caso utilize MongoDB Atlas, substitua pela sua connection string.
